@@ -8,6 +8,6 @@ package diegoraguaytallertuercamotorapp.model;
  *
  * @author USUARIO
  */
-public class NewClass {
+public class Mecanico {
     
 }

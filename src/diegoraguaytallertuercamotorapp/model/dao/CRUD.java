@@ -8,6 +8,6 @@ package diegoraguaytallertuercamotorapp.model.dao;
  *
  * @author USUARIO
  */
-public class NewClass {
+public class CRUD {
     
 }

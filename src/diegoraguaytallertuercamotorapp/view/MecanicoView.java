@@ -8,6 +8,6 @@ package diegoraguaytallertuercamotorapp.view;
  *
  * @author USUARIO
  */
-public class NewClass {
+public class MecanicoView {
     
 }

@@ -8,13 +8,13 @@ public class MenuPrincipal {
     public void arrancarSistema() {
         int opcion;
         do {
-            System.out.println("\n|______________________________________|");
+            System.out.println("  |______________________________________|");
             System.out.println("  |Sistema central - TallerTuercaMotorApp|");
             System.out.println("  |______________________________________|");
             System.out.println("  | 1). Entrar al modulo de Mecanicos    |");
             System.out.println("  | 2). Salir del sistema                |");
             System.out.println("  |______________________________________|");
-            System.out.print("Seleccione una opcion");
+            System.out.print("Seleccione una opcion: ");
             opcion = scanner.nextInt();
             
             switch (opcion) {
